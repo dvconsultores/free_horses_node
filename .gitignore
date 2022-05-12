@@ -1,0 +1,6 @@
+.DS_Store
+/node_modules/
+
+
+# Editor directories and files
+/src/storage/free_horses/images.zip
